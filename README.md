@@ -10,7 +10,7 @@ deliveries.csv
 
 The project extracts meaningful insights related to team performance, batting, bowling, toss decisions, match-winning patterns, and rare cricket events using data analysis techniques.
 
-Objectives
+Objectives:
 
 The main objectives of this project are:
 
@@ -29,13 +29,13 @@ No balls
 Runs conceded
 Explore rare and interesting match situations
 
-Technologies Used
+Technologies Used:
 Python
 Pandas
 Google Colab / Jupyter Notebook
 CSV Datasets
 
-Dataset Information
+Dataset Information:
 1. Matches Dataset
 
 Contains match-level information such as:
@@ -57,8 +57,7 @@ Extras
 Wickets
 Overs
 
-Learning Outcomes
-
+Learning Outcomes:
 Through this project, I learned:
 
 Data cleaning and filtering using Pandas
@@ -67,6 +66,5 @@ Cricket data analysis using Python
 Real-world dataset handling
 Extracting meaningful insights from structured data
 
-Conclusion
-
+Conclusion:
 This project demonstrates how Python and Pandas can be used to analyze real-world sports datasets effectively. The IPL dataset provides valuable insights into batting, bowling, toss decisions, team performance, and match strategies across multiple IPL seasons.
